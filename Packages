@@ -1,0 +1,47 @@
+xbps-install -S \
+base-system \
+connman \
+connman-gtk \
+cryptsetup \
+curl \
+deadbeef \
+dejavu-fonts-ttf \
+dunst \
+feh \
+ffmpeg \
+firefox \
+font-awesome \
+fuse \
+gummiboot \
+leafpad \
+libXft \
+libXt \
+libmtp \
+lm_sensors \
+lxappearance \
+lxdm \
+lxtask \
+mksh \
+opendoas \
+p7zip \
+pulseaudio \
+pulsemixer \
+qt5ct \
+rsync \
+scrot \
+simple-mtpfs \
+spacefm \
+transmission \
+transmission \
+unzip \
+xcompmgr \
+xdo \
+xdotool \
+xf86-video-intel \
+xorg-input-drivers \
+xorg-server \
+xprop \
+xz
+
+#xf86-video-ati
+#xf86-video-intel
