@@ -1,7 +1,5 @@
 xbps-install -S \
 base-system \
-connman \
-connman-gtk \
 cryptsetup \
 curl \
 deadbeef \
